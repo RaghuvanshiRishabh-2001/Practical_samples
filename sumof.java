@@ -22,6 +22,6 @@ class sumof{
        
         double res = Series(n);
         res = Math.round(res * 100000.0) / 100000.0;
-        System.out.println("The sum of the series till "+n+"th term is "+res);
+        System.out.println("The sum of the series till the given  "+n+"th term is "+res);
     }
 }
